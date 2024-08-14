@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 <key>NSCameraUsageDescription</key>
-<string>Your description for camera access</string>
+<string>camera access</string>
 <key>NSMicrophoneUsageDescription</key>
-<string>Your description for microphone access</string>
+<string>microphone access</string>
 <key>NSPhotoLibraryUsageDescription</key>
-<string>Your description for photo library access</string>
+<string>photo library access</string>
 <key>NSLocationWhenInUseUsageDescription</key>
-<string>Your description for location access when the app is in use</string>
+<string>location access when the app is in use</string>
 <key>NSLocationAlwaysUsageDescription</key>
-<string>Your description for location access at all times</string>
+<string>location access at all times</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Triton</string>
+	<string>Sia</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
